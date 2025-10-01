@@ -34,7 +34,8 @@ WHILE(TRUE) {
     OBJECT *Warframe = SOMATIC_CLIENT_SERVER_MODEL_OSI(*WARFAME_LAYERS_OF_OSI_MODEL_BUILT_AS_A_YHP_COMPOSER);
     OBJECT *WARFRAME++;
 }
-
+функции, описанные здесь затрагивают работу как Warframe, так и дополнение Aleca Frame к нему, который работает также на основании SomaticConnection.yhp
 
 ?>
+
 
