@@ -1,4 +1,5 @@
 <?yhp
+написание типа - <?yhp ?> старт и конец работы клиенского и (или) серверного кода
 function SOMATIC_CLIENT_SERVER_MODEL_OSI(*WARFRAME_YHP_COMPOSER)
 {
     //PSEUDOCODE
@@ -36,3 +37,4 @@ WHILE(TRUE) {
 
 
 ?>
+
